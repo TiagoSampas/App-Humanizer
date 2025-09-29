@@ -1,0 +1,5 @@
+{
+  "name": "Humanizador de IA",
+  "description": "Uma aplicação para verificar se um texto foi gerado por IA e, em caso afirmativo, humanizá-lo para um tom mais natural em português de Portugal.",
+  "requestFramePermissions": []
+}
